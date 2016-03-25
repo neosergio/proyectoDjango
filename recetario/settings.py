@@ -57,8 +57,6 @@ MIDDLEWARE_CLASSES = (
 
 ROOT_URLCONF = 'recetario.urls'
 
-print RUTA_PROYECTO
-
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
